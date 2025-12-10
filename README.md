@@ -27,10 +27,10 @@ This dashboard helps users understand:
 ---
 
 ## 📂 Project Structure  
-│── Datasets/
-│── ImagesUsed/
-│── arshia_project.pbix # Final Power BI dashboard
-│── Arshia_report.doc # Project report
+│── Datasets/  
+│── ImagesUsed/  
+│── arshia_project.pbix # Final Power BI dashboard  
+│── Arshia_report.doc # Project report  
 └── india.json # Custom India TopoJSON map  
 
 
@@ -93,11 +93,6 @@ Created metrics for:
 
 ---
 
-## 📸 Dashboard Preview  
-*(Add screenshots here later)*  
-
----
-
 ## 🚀 Future Enhancements  
 - Add real-time API-driven data  
 - Allow district-level drill-down  
@@ -108,10 +103,6 @@ Created metrics for:
 
 ## 👩‍💻 Author  
 **Arshia Singh**  
-- 🌐 *LinkedIn:* https://www.linkedin.com/in/YOUR-LINK  
-- 💻 *GitHub:* https://github.com/YOUR-USERNAME  
+- 🌐 *LinkedIn:* https://www.linkedin.com/in/arshiasingh28/  
+- 💻 *GitHub:*   https://github.com/ArshiaSingh05 
 
----
-
-## 📜 License  
-This project is open-source under the **MIT License**.
